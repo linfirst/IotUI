@@ -16,7 +16,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.linfirst.sockettest01.R;
+import com.linfirst.activity.R;
 import com.linfirst.until.MyHandler;
 import com.linfirst.until.MySocket;
 

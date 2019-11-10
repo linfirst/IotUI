@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import com.linfirst.sockettest01.R;
+import com.linfirst.activity.R;
 
 public class AddReductionView extends LinearLayout  {
 

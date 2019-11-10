@@ -15,7 +15,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.linfirst.sockettest01.R;
+import com.linfirst.activity.R;
 import com.linfirst.temperatureview.BrokenLineAdapter;
 import com.linfirst.until.AnalysisData;
 

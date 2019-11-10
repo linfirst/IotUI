@@ -20,7 +20,7 @@ import android.widget.CompoundButton;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.linfirst.sockettest01.R;
+import com.linfirst.activity.R;
 import com.linfirst.until.AnalysisData;
 import com.linfirst.until.MySocket;
 

@@ -1,4 +1,4 @@
-package com.linfirst.sockettest01;
+package com.linfirst.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
