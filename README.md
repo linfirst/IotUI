@@ -11,4 +11,4 @@ UI
 
 <!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/3.png)-->
  
- <img src="https://github.com/linfirst/IotUI/blob/master/screenshot/3.png" width = "540" height = "1170" alt="" align=center />
+ <img src="https://github.com/linfirst/IotUI/blob/master/screenshot/3.png" width = "270" height = "585" alt="" align=center />
