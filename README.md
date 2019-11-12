@@ -20,14 +20,7 @@
 
 2.根据需要增加了单位
 
-<!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/1.png)-->
-
-<!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/1.png)-->
-
-<!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/2.png)-->
-
-<!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/3.png)-->
-
+ ## 页面
 
 <img src="https://github.com/linfirst/IotUI/blob/master/screenshot/1.png" width="40%">
 
