@@ -79,6 +79,9 @@ public class TemFragment extends Fragment {
 
         data = new ArrayList<>();
         data.add(0);
+        data.add(10);
+        data.add(20);
+        data.add(33);
 
         recyclerView.scrollToPosition(data.size() - 1);
         adapter = new BrokenLineAdapter(view.getContext(), data);

@@ -132,7 +132,7 @@ public class BrokenLineView extends View {
         mPaint.setStrokeWidth(12);
         mPaint.setStyle(Paint.Style.FILL);
         mPaint.setTextAlign(Paint.Align.CENTER);
-        canvas.drawText(currentValue+"°",pointX , pointY - 20, mPaint);
+        canvas.drawText(currentValue+"",pointX , pointY - 20, mPaint);
     }
 
     //设置字体颜色

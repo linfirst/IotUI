@@ -310,13 +310,18 @@ public class DataFragment extends Fragment {
         public void handleMessage(@NonNull Message msg) {
             switch (msg.what){
                 case 0:
-                    if ("he".equals(analysisData.getDeviceType(String.valueOf(msg.obj)))){
+                    if (msg.obj=="0"){
+                    break;
+                }else if ("he".equals(analysisData.getDeviceType(String.valueOf(msg.obj)))){
                         temp_number.setText(analysisData.getTem(msg.obj+""));
                         humidity_number.setText(analysisData.getHum(msg.obj+""));
                     }
                     break;
                 case 1:
-                    if (LIG.equals(analysisData.getDeviceType(String.valueOf(msg.obj)))){
+                    if (msg.obj=="0"){
+                        break;
+                    }
+                    else if (LIG.equals(analysisData.getDeviceType(String.valueOf(msg.obj)))){
                         lig_number.setText(analysisData.getLig(String.valueOf(msg.obj)));
                     }
                     int max=sharedPreferences.getInt(LIG_NUM, 200);
