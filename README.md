@@ -12,7 +12,7 @@
 
 
 <img src="https://github.com/linfirst/IotUI/blob/master/screenshot/2.png" width="375">
-	
-<img src="https://github.com/linfirst/IotUI/blob/master/screenshot/2.png" width = "30%" height="5%"/>
+
+<img src="https://github.com/linfirst/IotUI/blob/master/screenshot/2.png" height="375"/>
  
 <img src="https://github.com/linfirst/IotUI/blob/master/screenshot/3.png" width = "30%" height= "5%" alt="" align=center />
