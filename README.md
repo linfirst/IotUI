@@ -5,6 +5,9 @@
 折线图参考：
 [TemperatureView](https://github.com/lyx19970504/TemperatureView)
 
+加减按钮参考：
+[Android——自定义View之购物车的加减](https://blog.csdn.net/xy8199/article/details/78421658?utm_source=app)
+
 
 <!--![](https://github.com/linfirst/IotUI/blob/master/screenshot/1.png)-->
 
